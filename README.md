@@ -1,2 +1,2 @@
 # MAJOK-variety-empire
-A website for shopping 
+A one-stop website for shopping 
